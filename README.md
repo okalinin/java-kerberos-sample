@@ -10,4 +10,4 @@ Sample usage
 
 2. Execute:
 
-<pre>java -cp ./target/java-kerberos-sample-0.0.1.jar Main <principal> <keytab> <url></pre>
+<pre>java -cp ./target/java-kerberos-sample-0.0.1.jar Main \<principal\> \<keytab\> \<url\></pre>
